@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "codeceptjs": "^2.6.6",
+    "protractor": "^7.0.0"
+  }
+}
